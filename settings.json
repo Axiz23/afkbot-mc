@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "FoldC",
+    "username": "Htyyon",
     "password": "",
     "type": "mojang"
   },
@@ -25,7 +25,7 @@
     },
 
     "anti-afk": {
-      "enabled": true,
+      "enabled": false,
       "sneak": true
     },
 
