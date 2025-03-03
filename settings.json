@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "minegens.id",
+    "ip": "kalwi.id",
     "port": 25565,
     "version": "1.13.1"
   },
@@ -35,7 +35,7 @@
       "repeat-delay": 30,
 
       "messages": [
-        "/server survival2",
+        "/queue skyblock",
         "",
         ""
       ]
