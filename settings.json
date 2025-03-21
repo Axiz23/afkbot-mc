@@ -20,7 +20,7 @@
 
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "APALU890"
     },
 
@@ -30,7 +30,7 @@
     },
 
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 30,
 
